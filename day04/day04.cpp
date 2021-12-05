@@ -32,7 +32,7 @@ int GetScore(const std::vector<int>& board, const std::vector<bool>& marks, int 
 
 int main()
 {
-	std::ifstream inputFile("D:/code/aoc2021/day04/input.txt");
+	std::ifstream inputFile("input.txt");
 	std::string line;
 	std::getline(inputFile, line);
 
